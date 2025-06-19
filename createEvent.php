@@ -15,6 +15,7 @@ include_once 'header.php';
             <input class="createeventbtn" type="submit" name="submit" value="Create Event">
         </form>
 </div>
+<DIV> </DIV>
 
 <?php
 include_once 'footer.php';
